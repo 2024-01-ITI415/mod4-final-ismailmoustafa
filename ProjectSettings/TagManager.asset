@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Fire
   - Loader
+  - Coin
+  - end
   layers:
   - Default
   - TransparentFX
